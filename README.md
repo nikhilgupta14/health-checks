@@ -2,4 +2,4 @@
 Scripts that checks the health of my computers
 
 This repo will be populated with lots of fancy checks.
-For better understanding.
+I am creating a merge conflict for better understanding.
